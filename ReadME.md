@@ -1,6 +1,6 @@
 # LLM Prompting Strategies for Implicit Aspect-Based Sentiment Classification
 
-This repository implements and evaluates a family of prompting strategies including a ** iterative Self-Improvement (ISI)** loop — for Aspect-Based Sentiment Classification (ABSC). Experiments are run against locally-hosted LLMs (via [Ollama](https://ollama.com/)) on the SemEval-2014 Restaurants/Laptops datasets.
+This repository implements and evaluates a family of prompting strategies including an ** iterative Self-Improvement (ISI)** loop — for Aspect-Based Sentiment Classification (ABSC). Experiments are run against locally-hosted LLMs (via [Ollama](https://ollama.com/)) on the SemEval-2014 Restaurants/Laptops datasets.
 
 ---
 
